@@ -7,4 +7,4 @@ The following portfolio documents previous projects I completed  for the relevan
 
 ## Projects 
 # Machine Learning Prediction of Building Energy Efficiency Based on Architectural Parameters and Weather Data
-Notebook: [GitHub Pages](https://pages.github.com/).
+Notebook: [GitHub Pages](Machine_Learning_Prediction_of_Building_Energy_Efficiency_Based_on_Architectural_Parameters_and_Weather_Data.ipynb).
