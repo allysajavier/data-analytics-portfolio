@@ -6,5 +6,10 @@ During my studies, I had the opportunity to hone my skills in Python to analyze 
 The following portfolio documents previous projects I completed  for the relevant courseworks stated above. This portfolio includes notebookes that I have worked on individually and in groups, demonstrating my proficiency in data analysis. 
 
 ## Projects 
-# Machine Learning Prediction of Building Energy Efficiency Based on Architectural Parameters and Weather Data
-Notebook: [GitHub Pages](Machine_Learning_Prediction_of_Building_Energy_Efficiency_Based_on_Architectural_Parameters_and_Weather_Data.ipynb).
+### Machine Learning Prediction of Building Energy Efficiency Based on Architectural Parameters and Weather Data
+**Notebook:** [Machine Learning Prediction](Machine_Learning_Prediction_of_Building_Energy_Efficiency_Based_on_Architectural_Parameters_and_Weather_Data.ipynb).
+**Objective:** The project aims to predict energy efficiency based on building design and environmental factors to reduce operational costs, energy bills, and greenhouse gas emissions among others. This helps different organizations build a sustainable future by designing infrastructures that combat the carbon footprint brought about by population growth and rapid urbanization. 
+**Skills:** Data cleaning, data visualization, machine learning, and predictive modeling 
+
+### Advanced Regression Techniques 
+**Notebook:** [Regression Techniques](
