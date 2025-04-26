@@ -4,7 +4,9 @@ Hi! I’m Allysa, a graduating AB Psychology student with a minor in Data Scienc
 
 During my studies, I honed my skills in Python for data cleaning, analysis, and visualization. I also built statistical models and developed machine learning algorithms for predictive analytics. At the same time, I was able to tap into my degree in Psychology, integrating psychological concepts in my data interpretations for deeper and more meaningful insights.<br/>
 
-This portfolio showcases the projects I have completed as part of my coursework. It includes individual and group notebooks that demonstrate my proficiency in data analysis, visualization, and predictive modeling.<br/>
+I am currently pursuing two certifications: (1) the IBM Data Analyst Professional Certificate through Coursera and (2) the Associate Data Analyst in SQL certification through DataCamp. I aim to complete both by May 2025. These programs focus on strengthening my skills in Python, SQL, and Microsoft Excel.
+
+The following portfolio showcases the projects I have completed as part of my coursework. It includes individual and group notebooks that demonstrate my proficiency in data analysis, visualization, and predictive modeling.<br/>
 
 ## Projects 
 ### Machine Learning Prediction of Building Energy Efficiency Based on Architectural Parameters and Weather Data
@@ -14,13 +16,18 @@ This portfolio showcases the projects I have completed as part of my coursework.
 
 ### Advanced Regression Techniques 
 **Notebook:** [Regression Techniques](Advanced_Regression_Techniques.ipynb)<br/>
-**Objective:** Predict the specific numeric price of a house based on its characteristics.<br/>
+**Objective:** The objective of this project is to predict the specific numeric price of a house based on its characteristics.<br/>
 **Skills:** Data preprocessing, data engineering, data visualization, data analysis, machine learning and modeling.<br/>
 
 ### Association Rule Learning 
 **Notebook:** [Association Rule Learning](Association_Rule_Learning.ipynb)<br/>
-**Objective:** The objective of this project is to apply association rule learning techniques to identify significant item relationships within a grocery dataset and an additional dataset of choice. Through grouping items by member and month, and analyzing association rules, we aim to generate actionable recommendations for business decision-making. Additionally, we seek to explore alternative grouping methods that could yield high-confidence association rules. This project involves cleaning and analyzing datasets, documenting findings, and providing business insights based on the association rules discovered.
-**Skills:** 
+**Objective:** The project seeks to identify significant items and relationships within the grocery dataset by grouping relevant variables together to generate actionable recommendations for informed analysis and decision-making.<br/>
+**Skills:** Data preprocessing, data mining, and grouping and segmentation.<br/> 
 
-### Association Rule Learning
+
+### Clustering Algorithms and Recommender Systems 
+**Notebook:** [Clustering Algorithms and Recommender Systems](Association_Rule_Learning.ipynb)<br/>
+**Objective:** The project aims to predict songs with similar characteristics and predefined criteria by maximizing clustering algorithms and recommender systems to maintain data accuracy in identifying trends and patterns among existing songs. <br/>
+**Skills:** Data preprocessing, data visualization, and data mining.<br/> 
+
 
