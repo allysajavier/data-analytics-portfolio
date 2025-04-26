@@ -19,7 +19,7 @@ This portfolio showcases the projects I have completed as part of my coursework.
 
 ### Association Rule Learning 
 **Notebook:** [Association Rule Learning](Association_Rule_Learning.ipynb)<br/>
-**Objective:** 
+**Objective:** The objective of this project is to apply association rule learning techniques to identify significant item relationships within a grocery dataset and an additional dataset of choice. Through grouping items by member and month, and analyzing association rules, we aim to generate actionable recommendations for business decision-making. Additionally, we seek to explore alternative grouping methods that could yield high-confidence association rules. This project involves cleaning and analyzing datasets, documenting findings, and providing business insights based on the association rules discovered.
 **Skills:** 
 
 ### Association Rule Learning
