@@ -18,7 +18,7 @@ This portfolio showcases the projects I have completed as part of my coursework.
 **Skills:** Data preprocessing, data engineering, data visualization, data analysis, machine learning and modeling.<br/>
 
 ### Association Rule Learning 
-**Notebook:** [Association Rule Learning]()<br/>
+**Notebook:** [Association Rule Learning](Association_Rule_Learning.ipynb)<br/>
 **Objective:** 
 **Skills:** 
 
