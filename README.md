@@ -26,7 +26,7 @@ The following portfolio showcases the projects I have completed as part of my co
 
 
 ### Clustering Algorithms and Recommender Systems 
-**Notebook:** [Clustering Algorithms and Recommender Systems](Association_Rule_Learning.ipynb)<br/>
+**Notebook:** [Clustering Algorithms and Recommender Systems](Clustering_Algorithms_and_Recommender_Systems.ipynb)<br/>
 **Objective:** The project aims to predict songs with similar characteristics and predefined criteria by maximizing clustering algorithms and recommender systems to maintain data accuracy in identifying trends and patterns among existing songs. <br/>
 **Skills:** Data preprocessing, data visualization, and data mining.<br/> 
 
