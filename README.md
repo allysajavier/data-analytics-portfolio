@@ -24,10 +24,17 @@ The following portfolio showcases the projects I have completed as part of my co
 **Objective:** The project seeks to identify significant items and relationships within the grocery dataset by grouping relevant variables together to generate actionable recommendations for informed analysis and decision-making.<br/>
 **Skills:** Data preprocessing, data mining, and grouping and segmentation.<br/> 
 
-
 ### Clustering Algorithms and Recommender Systems 
 **Notebook:** [Clustering Algorithms and Recommender Systems](Clustering_Algorithms_and_Recommender_Systems.ipynb)<br/>
 **Objective:** The project aims to predict songs with similar characteristics and predefined criteria by maximizing clustering algorithms and recommender systems to maintain data accuracy in identifying trends and patterns among existing songs. <br/>
 **Skills:** Data preprocessing, data visualization, and data mining.<br/> 
 
+### Bikeshare Case Study 
+**Notebook:** [Bikeshare Case Study ](Clustering_Algorithms_and_Recommender_Systems.ipynb)<br/>
+**Objective:** The case study leverages exploratory data analysis to analyze a bike-share program dataset to propose recommendations and increase consumer sales. <br/>
+**Skills:** Data preprocessing, data visualization.<br/> 
 
+### Marketing Analytics 
+**Notebook:** [Marketing Analytics](Clustering_Algorithms_and_Recommender_Systems.ipynb)<br/>
+**Objective: The project gathers, examines, and comprehends consumer behavior to effectively devise advertisements catered toward different individuals  <br/>
+**Skills:** Data preprocessing, data visualization.<br/> 
