@@ -30,7 +30,7 @@ The following portfolio showcases the projects I have completed as part of my co
 **Skills:** Data preprocessing, data visualization, and data mining.<br/> 
 
 ### Bikeshare Case Study 
-**Notebook:** [Bikeshare Case Study ](Clustering_Algorithms_and_Recommender_Systems.ipynb)<br/>
+**Notebook:** [Bikeshare Case Study ](Bikeshare_Case_Study.ipynb)<br/>
 **Objective:** The case study leverages exploratory data analysis to analyze a bike-share program dataset to propose recommendations and increase consumer sales. <br/>
 **Skills:** Data preprocessing, data visualization.<br/> 
 
