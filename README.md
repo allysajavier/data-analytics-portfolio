@@ -35,6 +35,6 @@ The following portfolio showcases the projects I have completed as part of my co
 **Skills:** Data preprocessing, data visualization.<br/> 
 
 ### Marketing Analytics 
-**Notebook:** [Marketing Analytics](Clustering_Algorithms_and_Recommender_Systems.ipynb)<br/>
+**Notebook:** [Marketing Analytics](Group_5_Final_Output.ipynb)<br/>
 **Objective:** The project gathers, examines, and comprehends consumer behavior to effectively devise advertisements catered toward different individuals  <br/>
 **Skills:** Data preprocessing, data visualization.<br/> 
