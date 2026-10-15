@@ -26,7 +26,7 @@ I turn raw data into clear, decision-ready insights. My academic training in dat
 
 ## Certifications
 
-- Eskwelabs Data Analytics Bootcamp: Data Insighting and Storytelling, SQL, Python, Power BI, RPA
+- Eskwelabs Data Analytics Bootcamp: Data Insighting and Storytelling, SQL, Python, Power BI, RPA (October 2026)
 - Client Operations Certification Exam - SQL, S&P Global (June 2026)
 - Client Operations Certification Exam - Excel, S&P Global (March 2026)
 - Python for Data Science, AI, & Development, IBM via Coursera (May 2025)
