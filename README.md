@@ -37,7 +37,7 @@ I turn raw data into clear, decision-ready insights. My academic training in dat
 
 ### HR Analytics Dashboard: Staffing Obligation Fulfillment (Power BI)
 
-**Dashboard:** [View the dashboard](#) | **Screenshot:** `![Dashboard preview](images/hr-dashboard.png)`
+**Dashboard:** [View the dashboard](https://github.com/allysajavier/capstone-dabc23) |
 
 **Context:** Completed as part of the Eskwelabs Data Analytics Bootcamp.
 
