@@ -1,40 +1,105 @@
-# Data Analytics Portfolio
-## About 
-Hi! I’m Allysa, a graduating AB Psychology student with a minor in Data Science at De La Salle University - Manila. I was accepted into the university’s Data Science program in July 2023. Throughout my academic journey, I had the opportunity to take courses such as Principles of Data Science, Data Visualization, Data Mining and Statistics, and Introduction to Machine Learning.
+# Allysa Javier | Data Analytics Portfolio
 
-During my studies, I honed my skills in Python for data cleaning, analysis, and visualization. I also built statistical models and developed machine learning algorithms for predictive analytics. At the same time, I was able to tap into my degree in Psychology, integrating psychological concepts in my data interpretations for deeper and more meaningful insights.<br/>
+Data analyst with a BA in Psychology (Minor in Data Science) from De La Salle University - Manila, Magna Cum Laude (GPA 3.79/4.00), graduated June 2025. I have hands-on experience in client operations and data validation at S&P Global, and I completed the Eskwelabs Data Analytics Bootcamp.
 
-I am currently pursuing two certifications: (1) the IBM Data Analyst Professional Certificate through Coursera and (2) the Associate Data Analyst in SQL certification through DataCamp. I aim to complete both by May 2025. These programs focus on strengthening my skills in Python, SQL, and Microsoft Excel.
+📫 [LinkedIn](#) | allysaibjavier@gmail.com
 
-The following portfolio showcases the projects I have completed as part of my coursework. It includes individual and group notebooks that demonstrate my proficiency in data analysis, visualization, and predictive modeling.<br/>
+---
 
-## Projects 
-### Machine Learning Prediction of Building Energy Efficiency Based on Architectural Parameters and Weather Data
-**Notebook:** [Machine Learning Prediction](Machine_Learning_Prediction_of_Building_Energy_Efficiency_Based_on_Architectural_Parameters_and_Weather_Data.ipynb).<br/>
-**Objective:** The project aims to predict energy efficiency based on building design and environmental factors to reduce operational costs, energy bills, and greenhouse gas emissions among others. This helps different organizations build a sustainable future by designing infrastructures that combat the carbon footprint brought about by population growth and rapid urbanization.<br/>
-**Skills:** Data preprocessing, data engineering, data visualization, data analysis, machine learning and modeling. 
+## About Me
 
-### Advanced Regression Techniques 
-**Notebook:** [Regression Techniques](Advanced_Regression_Techniques.ipynb)<br/>
-**Objective:** The objective of this project is to predict the specific numeric price of a house based on its characteristics.<br/>
-**Skills:** Data preprocessing, data engineering, data visualization, data analysis, machine learning and modeling.<br/>
+I turn raw data into clear, decision-ready insights. My academic training in data science, combined with a Psychology background, helps me interpret data in the context of how people and organizations actually behave.
 
-### Association Rule Learning 
-**Notebook:** [Association Rule Learning](Association_Rule_Learning.ipynb)<br/>
-**Objective:** The project seeks to identify significant items and relationships within the grocery dataset by grouping relevant variables together to generate actionable recommendations for informed analysis and decision-making.<br/>
-**Skills:** Data preprocessing, data mining, and grouping and segmentation.<br/> 
+- **Education:** BA Psychology, Minor in Data Science, De La Salle University - Manila (graduated June 2025)
+- **Experience:** Client Operations Associate at S&P Global (Sept 2025 - June 2026), working in Salesforce and Excel, validating Energy and Metals & Mining data, and resolving 400+ client cases within a 60-minute SLA. Previously a Data Management and Analytics Intern at Bangko Sentral ng Pilipinas.
+- **Coursework:** Principles of Data Science, Data Visualization, Data Mining and Statistics, Introduction to Machine Learning
+- **Focus:** Reporting, dashboards, data quality, trend analysis, and predictive modeling
 
-### Clustering Algorithms and Recommender Systems 
-**Notebook:** [Clustering Algorithms and Recommender Systems](Clustering_Algorithms_and_Recommender_Systems.ipynb)<br/>
-**Objective:** The project aims to predict songs with similar characteristics and predefined criteria by maximizing clustering algorithms and recommender systems to maintain data accuracy in identifying trends and patterns among existing songs. <br/>
-**Skills:** Data preprocessing, data visualization, and data mining.<br/> 
+## Skills
 
-### Bikeshare Case Study 
-**Notebook:** [Bikeshare Case Study ](Bikeshare_Case_Study.ipynb)<br/>
-**Objective:** The case study leverages exploratory data analysis to analyze a bike-share program dataset to propose recommendations and increase consumer sales. <br/>
-**Skills:** Data preprocessing, data visualization.<br/> 
+| Area | Tools and Techniques |
+|---|---|
+| Analytics and BI | Power BI, dashboard development, data visualization, data storytelling, exploratory data analysis |
+| Programming and Data | SQL, Python (data cleaning, analysis, visualization, machine learning), RPA |
+| Business Tools | Microsoft Excel, Salesforce CRM, Microsoft Word and PowerPoint |
+| Data Operations | Data validation, data clean-up, data quality, process improvement |
 
-### Marketing Analytics 
-**Notebook:** [Marketing Analytics](Group_5_Final_Output.ipynb)<br/>
-**Objective:** The project gathers, examines, and comprehends consumer behavior to effectively devise advertisements catered toward different individuals  <br/>
-**Skills:** Data preprocessing, data visualization.<br/> 
+## Certifications
+
+- Eskwelabs Data Analytics Bootcamp: Data Insighting and Storytelling, SQL, Python, Power BI, RPA
+- Client Operations Certification Exam - SQL, S&P Global (June 2026)
+- Client Operations Certification Exam - Excel, S&P Global (March 2026)
+- Python for Data Science, AI, & Development, IBM via Coursera (May 2025)
+
+---
+
+## Featured Project
+
+### HR Analytics Dashboard: Staffing Obligation Fulfillment (Power BI)
+
+**Dashboard:** [View the dashboard](#) | **Screenshot:** `![Dashboard preview](images/hr-dashboard.png)`
+
+**Context:** Completed as part of the Eskwelabs Data Analytics Bootcamp.
+
+**Objective:** Give stakeholders clear visibility into how well staffing obligations are being fulfilled, so they can spot gaps early and prioritize hiring and resourcing decisions.
+
+**What I did:**
+- Cleaned and prepared the dataset using [SQL / Excel / Python].
+- Designed an interactive Power BI dashboard tracking [key metrics, e.g., fulfillment rate, unfilled positions, breakdown by department or segment].
+- Identified [key finding or trend] and presented recommendations using data storytelling.
+
+**Skills:** Power BI, data cleaning, KPI design, dashboard development, data storytelling
+
+---
+
+## Coursework Projects
+
+### Machine Learning Prediction of Building Energy Efficiency
+**Notebook:** [Machine Learning Prediction](Machine_Learning_Prediction_of_Building_Energy_Efficiency_Based_on_Architectural_Parameters_and_Weather_Data.ipynb)
+
+**Objective:** Predict a building's heating and cooling loads from design and weather data, helping organizations reduce operating costs, energy bills, and greenhouse gas emissions through more sustainable building design.
+
+**Approach:** Preprocessed and explored the data, built and compared multiple regression models, and improved performance through feature engineering and hyperparameter tuning.
+
+**Skills:** Data preprocessing, exploratory data analysis, data visualization, machine learning, regression modeling
+
+### Advanced Regression Techniques
+**Notebook:** [Regression Techniques](Advanced_Regression_Techniques.ipynb)
+
+**Objective:** Predict house sale prices from property characteristics.
+
+**Skills:** Data preprocessing, feature engineering, data visualization, machine learning, regression modeling
+
+### Association Rule Learning
+**Notebook:** [Association Rule Learning](Association_Rule_Learning.ipynb)
+
+**Objective:** Uncover significant items and relationships in a grocery dataset to generate actionable recommendations for decision-making.
+
+**Skills:** Data preprocessing, data mining, grouping and segmentation
+
+### Clustering Algorithms and Recommender Systems
+**Notebook:** [Clustering Algorithms and Recommender Systems](Clustering_Algorithms_and_Recommender_Systems.ipynb)
+
+**Objective:** Group songs with similar characteristics and build a recommender system that surfaces trends and patterns among existing songs.
+
+**Skills:** Data preprocessing, data visualization, data mining, clustering
+
+### Bikeshare Case Study
+**Notebook:** [Bikeshare Case Study](Bikeshare_Case_Study.ipynb)
+
+**Objective:** Use exploratory data analysis on a bike-share dataset to understand rider behavior and recommend ways to grow consumer sales.
+
+**Skills:** Data preprocessing, data visualization, exploratory data analysis
+
+### Marketing Analytics
+**Notebook:** [Marketing Analytics](Group_5_Final_Output.ipynb) (group project)
+
+**Objective:** Analyze consumer behavior to inform advertising tailored to different customer segments.
+
+**Skills:** Data preprocessing, data visualization, customer segmentation
+
+---
+
+## Let's Connect
+
+I'm open to data analyst and reporting roles. Feel free to reach out via [LinkedIn](#) or email at allysaibjavier@gmail.com.
