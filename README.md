@@ -37,16 +37,14 @@ I turn raw data into clear, decision-ready insights. My academic training in dat
 
 ### HR Analytics Dashboard: Staffing Obligation Fulfillment (Power BI)
 
-**Dashboard:** [View the dashboard](https://github.com/allysajavier/capstone-dabc23) |
+**Dashboard:** [View the dashboard (File name: hr_analytics)](https://github.com/allysajavier/capstone-dabc23) 
 
-**Context:** Completed as part of the Eskwelabs Data Analytics Bootcamp.
-
-**Objective:** Give stakeholders clear visibility into how well staffing obligations are being fulfilled, so they can spot gaps early and prioritize hiring and resourcing decisions.
+**Objective:** Give stakeholders clear visibility into how reliably staffing obligations are fulfilled, and where fulfillment breaks down.
 
 **What I did:**
-- Cleaned and prepared the dataset using [SQL / Excel / Python].
-- Designed an interactive Power BI dashboard tracking [key metrics, e.g., fulfillment rate, unfilled positions, breakdown by department or segment].
-- Identified [key finding or trend] and presented recommendations using data storytelling.
+- Queried and prepared operational data on obligations, occurrences, parties, and projects using SQL (PostgreSQL), then modeled it for reporting in Power BI.
+- Designed a 3-page interactive Power BI dashboard (Executive Overview, Obligation Fulfillment, Timing, Reliability & Workload) tracking hour-weighted fulfillment rate, obligation delivery rate, past-due backlog, and projects with shortfalls, with breakdowns by role, assignment size, and month.
+- Refined KPI definitions after mentor feedback so fulfillment rates exclude not-yet-due obligations, and added a Fulfilled / Overdue / Not Yet Due view to separate genuine misses from pending work.
 
 **Skills:** Power BI, data cleaning, KPI design, dashboard development, data storytelling
 
