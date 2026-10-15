@@ -91,15 +91,4 @@ I turn raw data into clear, decision-ready insights. My academic training in dat
 
 **Skills:** Data preprocessing, data visualization, exploratory data analysis
 
-### Marketing Analytics
-**Notebook:** [Marketing Analytics](Group_5_Final_Output.ipynb) (group project)
 
-**Objective:** Analyze consumer behavior to inform advertising tailored to different customer segments.
-
-**Skills:** Data preprocessing, data visualization, customer segmentation
-
----
-
-## Let's Connect
-
-I'm open to data analyst and reporting roles. Feel free to reach out via [LinkedIn](#) or email at allysaibjavier@gmail.com.
